@@ -1,0 +1,41 @@
+## Visual Studio & .NET .gitignore
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]uild/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio / VS Code directories
+.vs/
+.vscode/
+.idea/
+
+# Roslyn compiler & temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+
+# Temporary capture tool
+CaptureTool/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
